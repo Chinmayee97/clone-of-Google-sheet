@@ -1,0 +1,39 @@
+{
+  "task": [
+    {
+      "userName": "chinnu",
+      "taskName": "react",
+      "taskDetail": "react class",
+      "startDate": "2022-07-03",
+      "endDate": "2022-07-20",
+      "id": 1
+    },
+    {
+      "userName": "chinmayee",
+      "taskName": "react",
+      "taskDetail": "react",
+      "startDate": "2022-07-07",
+      "endDate": "2022-08-07",
+      "status": "Completed",
+      "id": 3
+    },
+    {
+      "userName": "chinmayee",
+      "taskName": "react",
+      "taskDetail": "react",
+      "startDate": "2022-07-07",
+      "endDate": "",
+      "status": "Completed",
+      "id": 4
+    },
+    {
+      "userName": "nithi",
+      "taskName": "js",
+      "taskDetail": "js",
+      "startDate": "2022-07-11",
+      "endDate": "2022-07-15",
+      "status": "On-going",
+      "id": 5
+    }
+  ]
+}
